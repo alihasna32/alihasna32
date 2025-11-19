@@ -1,7 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/mnt/data/20251119_150848.png" alt="Md. Ali Hasan Banner" />
+  <img src="[/mnt/data/20251119_150848.png](https://github.com/alihasna32/alihasna32/blob/main/20251119_150848.png)" alt="Md. Ali Hasan Banner" />
 </p>
+
+
 
 <h1 align="center">Hi, I'm Md. Ali Hasan 👋</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
