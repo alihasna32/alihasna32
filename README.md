@@ -49,7 +49,7 @@ MERN Stack collaborations & challenging projects to grow as a **Cloud-Ready Deve
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
 </p>
 
@@ -61,7 +61,7 @@ MERN Stack collaborations & challenging projects to grow as a **Cloud-Ready Deve
 
 ### 🛠 Tools & Technologies
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alihasna32&show_icons=true&locale=en" alt="alihasna32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </p>
 
