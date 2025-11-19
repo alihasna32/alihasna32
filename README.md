@@ -30,7 +30,6 @@ MERN Stack collaborations & challenging projects to grow as a **Cloud-Ready Deve
 ## 🔥 Current Activities
 - 🚧 I am exploring **Next.js**  
 - 🌍 Working on multiple MERN stack projects  
-- ☁️ Learning cloud hosting & deployment  
 - ⚡ Improving advanced React patterns  
 
 ---
