@@ -92,22 +92,17 @@ MERN Stack collaborations & challenging projects to grow as a **Cloud-Ready Deve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ali-Hasan&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ali-Hasan&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Hasan&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Hasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hasan&layout=compact&theme=tokyonight" height="180"/>
-</p> https://github-readme-streak-stats.herokuapp.com?user=Ali-Hasan&theme=tokyonight&hide_border=true
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hasan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-
-  https://github-readme-stats.vercel.app/api?username=Ali-Hasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true
-
-
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hasan&layout=compact&theme=tokyonight&hide_border=true
 
 ## total visited
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihasna32&label=Profile%20views&color=0e75b6&style=flat" alt="alihasna32" /> </p>
