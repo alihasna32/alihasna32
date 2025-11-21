@@ -104,7 +104,7 @@ MERN Stack collaborations & challenging projects to grow as a **Cloud-Ready Deve
 </p>
 
 
-## total visited
+## 👥Total visited
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihasna32&label=Profile%20views&color=0e75b6&style=flat" alt="alihasna32" /> </p>
 ---
 
