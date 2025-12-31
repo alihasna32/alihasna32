@@ -72,19 +72,6 @@ MERN Stack collaborations & challenging projects to grow as a **Cloud-Ready Deve
 
 ---
 
-## 🌐 Social Links
-<p>
-  <a href="https://www.facebook.com/md.ali.hasan.164567" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/md-ali-hasan-1h/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/md.ali.hasan.164567)
@@ -119,5 +106,5 @@ MERN Stack collaborations & challenging projects to grow as a **Cloud-Ready Deve
 
 ## 👥Total visited
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alihasna32&label=Profile%20views&color=0e75b6&style=flat" alt="alihasna32" /> </p>
----
+
 
