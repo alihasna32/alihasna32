@@ -34,42 +34,41 @@ MERN Stack collaborations & challenging projects to grow as a **Cloud-Ready Deve
 
 ---
 
-## 🧰 Skills & Technologies
+## 🧠 Skills & Technologies
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python" alt="JavaScript" />
+</p>
+
+---
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs" alt="HTML, CSS, Tailwind CSS, React, Next.js" />
 </p>
 
-### 🧩 Backend
+---
+
+### ⚙️ Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express.js" />
 </p>
 
-### ☁️ Deployment
+---
+
+### 🗄 Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="MongoDB" />
 </p>
 
-### 🛠 Tools & Technologies
+---
+
+### 🛠 Tools & Platforms
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,jwt,postman,vscode,figma" alt="Git, GitHub, Firebase, JWT, Postman, VS Code, Figma" />
 </p>
 
-### 🎨 Design
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40"/>
-</p>
 
 ---
 
@@ -86,25 +85,39 @@ MERN Stack collaborations & challenging projects to grow as a **Cloud-Ready Deve
   </a>
 </p>
 
+## 🌐 Socials
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/md.ali.hasan.164567)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ali-hasan-1h/)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihasna32&show_icons=true&locale=en" alt="alihasna32="180"/>
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=alihasna32&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Ali hasan GitHub stats" 
+  />
+  <img 
+    width="48%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=alihasna32&theme=tokyonight&hide_border=true" 
+    alt="Ali hasan streak" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihasna32" height="180"/>
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihasna32&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top languages" 
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alihasna32&show_icons=true&locale=en&layout=compact" height="180"/>
-</p>
-
+---
 
 ## 👥Total visited
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihasna32&label=Profile%20views&color=0e75b6&style=flat" alt="alihasna32" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alihasna32&label=Profile%20views&color=0e75b6&style=flat" alt="alihasna32" /> </p>
 ---
 
