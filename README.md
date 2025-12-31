@@ -59,7 +59,7 @@ MERN Stack collaborations & challenging projects to grow as a **Cloud-Ready Deve
 
 ### 🗄 Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
 </p>
 
 ---
